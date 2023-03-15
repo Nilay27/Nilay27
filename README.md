@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently building exciting web3 products. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Nilay27= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilay27&theme=radical)
+
 
 
 <!--
